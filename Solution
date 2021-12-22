@@ -1,0 +1,10 @@
+/     let name=[]
+//     let id = []
+//     let age = []
+//     members.map((e)=> append(e))
+//     function append(e){
+//         name.push(e.name)
+//         id.push(e.id)
+//         age.push(e.age)
+//     }
+//     return [name.sort(),age,id]
